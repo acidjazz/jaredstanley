@@ -8,3 +8,44 @@ body, html
   background-blend-mode color-burn
   background-size cover
 
+.zoom-enter-active
+  transition opacity 0.6s ease 0s, transform 0.6s ease 0s
+  
+.zoom-leave-active
+  transition opacity 0.2s ease 0s, transform 0.2s ease 0s
+  
+.zoom-enter
+  opacity 0
+  transform scale(0.9)
+
+.zoom-leave-to
+  opacity 0
+  transform scale(1.1)
+
+.left-enter-active
+  transition opacity 0.6s ease 0s, transform 0.6s ease 0s
+  
+.left-leave-active
+  transition opacity 0.2s ease 0s, transform 0.2s ease 0s
+  
+.left-enter
+  opacity 0
+  transform translate(1000px,0px)
+
+.left-leave-to
+  opacity 0
+  transform translate(-1000px,0px)
+
+.down-enter-active
+  transition opacity 0.6s ease 0s, transform 0.6s ease 0s
+  
+.down-leave-active
+  transition opacity 0.2s ease 0s, transform 0.2s ease 0s
+  
+.down-enter
+  opacity 0
+  transform translate(0px,-1000px)
+
+.down-leave-to
+  opacity 0
+  transform translate(0px,-1000px)

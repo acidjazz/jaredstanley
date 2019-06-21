@@ -5,3 +5,10 @@
                 div.bg-green-600.p-5.rounded about jared 
                 
 </template>
+
+<script>
+export default {
+    transition: 'left'
+}
+</script>
+

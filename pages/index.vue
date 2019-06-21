@@ -6,6 +6,7 @@
 <script>
 import data from '@/assets/animation.js'
 export default {
+  transition: 'zoom',
   data () {
     return {
       options: {},
