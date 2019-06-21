@@ -1,6 +1,6 @@
 <template lang="pug">
 #jaredstanley
-  //NavBar
+  NavBar
   nuxt
 </template>
 
