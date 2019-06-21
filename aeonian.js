@@ -7,6 +7,6 @@ require('aeonian').config({
   },
   environments: {
     production: 'E94X938RF0XXW',
-    staging: 'E21M8FCVIIDEFZ',
+    staging: 'E2IJDJMU82O1GK',
   }
 }).deploy(process.argv[2])
