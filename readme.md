@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/acidjazz/jaredstanley/blob/master/static/jared.jpg" width="300" alt="jared stanley"/>
 </p>
