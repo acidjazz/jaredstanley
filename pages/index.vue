@@ -1,9 +1,10 @@
 <template lang="pug">
 .page-index.flex.items-center.justify-center.h-screen
-  #lottie(ref="lottie")
+  #lottie(ref="lottie",@click="playit").cursor-pointer
 </template>
 
 <script>
+// import data from '@/assets/data.json'
 import data from '@/assets/animation.js'
 export default {
   transition: 'zoom',
