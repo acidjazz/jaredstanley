@@ -1,7 +1,6 @@
 <template lang="pug">
-    .page-about
+    .page-contact
         .container
             .flex.items-center.justify-center.h-screen
-                div.bg-green-600.p-5.rounded about jared 
-                
+                div.bg-orange-400.p-5.rounded contact me asap
 </template>
