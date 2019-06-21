@@ -22,9 +22,6 @@ jobs:
           name: Run tests
           command: yarn test
       - run:
-          name: Generate routes
-          command: yarn cash
-      - run:
           name: Generate static files
           command: yarn generate --no-lock --fail-on-page-error
 
