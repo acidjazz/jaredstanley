@@ -1,7 +1,7 @@
 <template lang="pug">
 #jaredstanley
-  NavBar
-  nuxt  
+  //NavBar
+  nuxt
 </template>
 
 <script>
