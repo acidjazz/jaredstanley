@@ -4,7 +4,6 @@
 
 > the portfolio of jared stanley
 
-
 [![GitHub issues](https://img.shields.io/github/issues/acidjazz/jaredstanley.svg)](https://github.com/acidjazz/jaredstanley/issues)
 [![CircleCI](https://img.shields.io/circleci/project/github/acidjazz/jaredstanley.svg)](https://circleci.com/gh/acidjazz/jaredstanley/)
 [![aeonian status](https://img.shields.io/badge/%C3%A6onian-deployed-green.svg)](https://github.com/acidjazz/aeonian)
