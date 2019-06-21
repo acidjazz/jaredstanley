@@ -16,6 +16,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
+    "test": "echo No tests yet",
     "production": "node aeonian.js production",
     "staging": "node aeonian.js staging"
   },
