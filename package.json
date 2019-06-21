@@ -15,10 +15,13 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "production": "node aeonian.js production",
+    "staging": "node aeonian.js staging"
   },
   "dependencies": {
     "@nuxtjs/tailwindcss": "^1.1.0",
+    "aeonian": "^1.1.7",
     "nuxt": "^2.0.0",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",
