@@ -1,0 +1,37 @@
+{
+  "name": "jaredstanley",
+  "version": "1.0.0",
+  "description": "the portfolio of jared stanley",
+  "author": "jared stanley",
+  "contributors": [
+    {
+      "name": "kevin olson",
+      "email": "acidijazz@gmail.com",
+      "url": "https://github.com/acidjazz"
+    }
+  ],
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^1.1.0",
+    "nuxt": "^2.0.0",
+    "pug": "^2.0.4",
+    "pug-plain-loader": "^1.0.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vue-lottie": "^0.2.1"
+  },
+  "devDependencies": {
+    "caniuse-lite": "^1.0.30000974",
+    "nodemon": "^1.18.9"
+  },
+  "resolutions": {
+    "browserslist": "4.6.2",
+    "caniuse-lite": "1.0.30000974"
+  }
+}
