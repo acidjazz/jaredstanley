@@ -1,6 +1,7 @@
-<template lang="pug">
-.page-index.flex.items-center.justify-center.h-screen
-  #lottie(ref="lottie",@click="playit").cursor-pointer
+<template>
+<div class="page-index flex items-center justify-center h-screen">
+    <div class="cursor-pointer" id="lottie" ref="lottie" @click="playit"></div>
+</div>
 </template>
 
 <script>

@@ -1,7 +1,9 @@
-<template lang="pug">
-#jaredstanley
-  NavBar
-  nuxt
+  
+<template>
+<div id="jaredstanley">
+  <NavBar />
+  <nuxt />
+</div>
 </template>
 
 <script>

@@ -26,7 +26,7 @@ export default {
   ** Global CSS
   */
   css: [
-    '@/assets/stylus/main.styl',
+    '@/assets/css/main.css',
   ],
   /*
   ** Plugins to load before mounting the App
